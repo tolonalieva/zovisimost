@@ -1,0 +1,358 @@
+@media screen and (max-width:1385px){
+    .prev, .next{
+        display: none;
+    }
+    .bottom{
+        display: none;
+    }
+}
+
+@media screen and (max-width:1185px){
+    .adres-info-link{
+        display: block;
+    }
+    .select{
+        margin-left: 20px;
+    }
+    .row-select-title{
+        justify-content: normal;
+    }
+    .row{
+        justify-content: center;
+    }
+    .cards{
+        margin-bottom: 58px;
+        justify-content: center;
+    }
+    .card{
+        margin: 0 auto 58px;
+    }
+    .row-help{
+        display: block;
+        position: relative;
+        bottom: -241px;
+    }
+    .card-block-info{
+        margin: 0 auto ;
+    }
+    .fon-doctor{
+        position: relative;
+        bottom: -0px;
+        background: none;
+    }
+    .block-text-title{
+        position: relative;
+        top: 294px;
+        display: block;
+    }
+    .block-text-title{
+        margin-bottom: 250px;
+    }
+    .cards-treatment{
+        display: block;
+        position: relative;
+        top: 100px;
+    }
+    .card-treatment{
+        margin: 0 auto 31px;
+    }
+    .odoptachia-2{
+        margin-bottom: 312px;
+    }
+    .slideshow-container{
+        display: none;
+    }
+    .fon-blue{
+        position: relative;
+        top: 0;
+    }
+    .odoptachia-3{
+        margin-bottom: 300px;
+    }
+    .odoptachia-5{
+        position: relative;
+        top: 0;
+    }
+    .odoptachia-8{
+        top: 0;
+    }
+}
+@media screen and (max-width:1010px){
+    .odoptachia-cards{
+        display: block;
+    }
+    .col-narco-no{
+        margin: 0 auto 20px;
+    }
+}
+@media screen and (max-width:878px){
+    .row-select-title{
+        display: block;
+    }
+    .left{
+        display: none;
+    }
+    .select{
+        margin-left: 0;
+    }
+    .cards{
+        display: block;
+    }
+    .row{
+        display: block;
+    }
+    .fon-doctor{
+        position: relative;
+        bottom: -749px;
+    }
+     .row-help{
+        position: relative;
+        bottom: -1157px;
+     }
+     .block-text-title{
+        width: 80%;
+        position: relative;
+        top: 1150px;
+
+    }
+    .block-text-title h2{
+        font-size: 22px;
+    }
+    .block-text-title p{
+        font-size: 16px;
+    }
+    .live{
+        right: 513px;
+        bottom: 0;
+    }
+    .block-companies{
+        margin-bottom: 50pxs;
+    }
+    
+    .cards-treatment{
+        display: block;
+        position: relative;
+        top: 1000px;
+    }
+    .fon-color{
+        position: relative;
+        top: 935px;
+    }
+    .odoptachia-2{
+        position: relative;
+        top: 205px;
+    }
+    .odoptachia-3{
+        position: relative;
+        top: 0;
+    }
+    .anton-block{
+        position: relative;
+        top: -230px;
+        background: none;
+        display: block;
+    }
+    .employees-link{
+        margin: 98px auto;
+    }
+    .cards-alkogolizm{
+        display: block;
+    }
+    .card-col{
+        margin: 0 auto;
+    }
+    .odoptachia-5{
+        position: relative;
+        top: 0;
+    }
+    .row-terms{
+        margin-bottom: 900px;
+    }
+    .card-col{
+        margin-bottom: 30px;
+    }
+    .block-input-info{
+        width: 80%;
+    }
+    .input-block input{
+        width: 45%;
+    }
+    .block-vopros{
+        margin-bottom: 40px;
+        text-align: center;
+    }
+    .line-bottom{
+        margin: 0 auto;
+    }
+    .block-input-info{
+        margin: 0 auto;
+    }
+    .block-anton-info{
+        position: relative;
+        top: -127px;
+    }
+    .odoptachia-8{
+        top: 0;
+    }
+    
+}
+@media screen and (max-width:785px){
+    .card-terms, .card-terms-2, .card-terms-4{
+        display: block;
+        background: none;
+        margin-bottom: 50px;
+    }
+    .block-info-terms{
+        width: 70%;
+        padding-bottom: 50px;
+    }
+    .card-terms img, .card-terms-2 img, .card-terms-4 img{
+        margin: 0;
+    }
+    .block-input-info a{
+        margin: 0 97px;
+    }
+    .who-needs-help input, .what-to-treat textarea{
+        width: 80%;
+        margin: 0 auto;
+        display: block;
+    }
+    .name-help-input{
+        flex-direction: column;
+    }
+    .name-help-input input{
+        width: 80%;
+        margin: 0 auto;
+    }
+    .uslugy{
+        display: none;
+    }
+    .narko-centre-row{
+        display: block;
+    }
+    .icon-link-contact{
+        display: none;
+    }
+
+}
+@media screen and (max-width:698px){
+    .live{
+        right: 0;
+        bottom: 140px;
+    }
+    .title-addiction{
+        font-size: 30px;
+    }
+
+}
+@media screen and (max-width:668px){
+    .icon-link-contact{
+        display: none;
+    }
+    .row-select{
+        display: none;
+    }
+    .block-anton-info p{
+        font-size: 12px;
+    }
+}
+@media screen and (max-width:640px){
+    .block-input-info a{
+        margin: 0 83px;
+    }
+}
+@media screen and (max-width:633px){
+    .block-companies{
+        max-width: 80%;
+    }
+
+}
+@media screen and (max-width:626px){
+    .row-help{
+        position: relative;
+        top: 1300px;
+     }
+    .block-text-title{
+        width: 80%;
+        position: relative;
+        top: 1476px;
+    }
+    .odoptachia{
+        width: 80%;
+        position: relative;
+        top: 1227px;
+    }
+    .odoptachia-2{
+        position: relative;
+        top: 205px;
+    }
+    .odoptachia-3{
+        position: relative;
+        top: -40px;
+    }
+    .odoptachia-5{
+        top: 0;
+    }
+    .odoptachia-8{
+        top: 0;
+    }
+    
+}
+@media screen and (max-width:570px){
+    .doctor-companias-img{
+        width: 342px;
+        height: 328px;
+    }
+    .odoptachia{
+        width: 80%;
+        position: relative;
+        top: 1227px;
+    }
+    .block-input-info a{
+        margin: 0 71px;
+        font-size: 14px;
+        padding: 11px 62px;
+    }
+    .block-input-info h1{
+       font-size: 18px;
+    }
+    .block-input-info input{
+        height: 30px;
+        font-size: 11px;
+    }
+}
+@media screen and (max-width:505px){
+}
+@media screen and (max-width:494px){
+    .block-input-info a{
+        margin: 0 50px;
+    }
+}
+@media screen and (max-width:450px){
+    .block-input-info a{
+        margin: 0 36px;
+    }
+}
+@media screen and (max-width:430px){
+    .block-input-info a{
+        margin: 0 27px;
+        padding: 7px 54px;
+    }
+    .width-line{
+        min-width: 90%;
+    }
+}
+@media screen and (max-width:400px){
+    .block-img-live{
+        display: none;
+    }
+    .card-terms img, .card-terms-2 img, .card-terms-4 img{
+        display: none;
+    }
+
+}
+@media screen and (max-width:380px){
+    body{
+        display: none;
+    }
+}
